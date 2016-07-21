@@ -1,0 +1,4 @@
+#define FIRMWARE_VERSION "2.31"
+#define FIRMWARE_BUILDDATE "19/07/2016"
+#define FIRMWARE_REVISION L"2.0"
+#define REVISION_STR "Shim revision: 2.0"

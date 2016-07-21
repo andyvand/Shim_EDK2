@@ -1,0 +1,2 @@
+The current certificate password of the .p12 file is 274905.
+It can be modified in make-certs.

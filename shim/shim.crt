@@ -1,0 +1,150 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            09:2c:34:5d:8a:0e:76:14
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, L=CloverCA, O=CloverCA
+        Validity
+            Not Before: Nov 24 20:28:22 2013 GMT
+            Not After : Apr 29 20:28:22 2193 GMT
+        Subject: C=US, L=Clover, O=Clover, CN=shim
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:d4:6c:c3:68:22:ea:c8:a3:55:3c:bf:ec:3a:df:
+                    91:ff:30:9d:b9:7f:ec:d2:e2:89:38:8e:8e:0c:f2:
+                    97:40:74:08:24:a9:df:e0:0f:b2:a9:92:ad:9d:2b:
+                    99:f6:e0:9b:48:9d:7f:e4:dc:50:b1:97:aa:17:47:
+                    7c:8e:b8:42:32:69:f8:57:5d:b2:95:d1:9d:57:79:
+                    46:bc:51:89:28:1b:e2:6c:2e:57:6a:ba:2d:67:d3:
+                    62:aa:48:c7:19:55:14:a8:4a:6b:ab:a4:6e:3c:60:
+                    ee:7f:fd:22:9d:9e:c9:cf:4e:07:a6:4e:a6:44:d2:
+                    6a:99:5c:f0:98:b6:c2:b4:20:d2:2d:61:a1:06:a8:
+                    c5:9e:d9:ff:25:8e:94:8d:06:2d:6c:86:e8:aa:e3:
+                    97:b6:23:1e:46:f1:3b:cc:47:ea:80:d6:08:ac:5c:
+                    4b:13:14:c9:1e:3c:5b:37:48:da:7b:3d:1f:c5:9f:
+                    b8:de:5d:53:44:20:9f:ef:f2:1e:eb:b5:e6:9f:4f:
+                    02:08:9c:72:92:bd:1c:2f:3a:c1:15:0f:7f:cc:cc:
+                    3f:42:db:4e:45:bc:c3:28:cb:09:86:5e:e1:b7:21:
+                    e1:85:0e:b1:c4:8a:4b:a0:8f:98:5a:9f:06:64:7a:
+                    4e:f9:a7:25:e2:db:b7:d1:61:6a:d5:7a:40:17:7d:
+                    63:2d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E1:CF:6B:8A:92:68:19:0C:B7:C7:70:46:DD:DC:16:6B:80:13:9C:30
+            X509v3 Authority Key Identifier: 
+                keyid:67:DE:EF:A9:A9:45:DF:CC:E2:12:3F:F2:B7:BF:5F:BA:C3:3C:81:09
+
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment, Key Agreement, Certificate Sign, CRL Sign, Encipher Only, Decipher Only
+            X509v3 Extended Key Usage: 
+                Code Signing, Microsoft Trust List Signing
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Clover Certificate for shim
+    Signature Algorithm: sha256WithRSAEncryption
+        19:62:48:7b:76:35:35:58:00:db:fa:9b:44:eb:b6:b4:4f:77:
+        6e:c0:fc:0d:38:96:2f:69:ac:ee:e1:3f:42:3b:a4:f3:ec:84:
+        62:97:1e:ac:d9:24:2a:e3:71:50:fc:60:6a:e7:6f:8c:e4:02:
+        18:de:80:02:56:09:16:07:ef:4b:aa:53:21:23:5a:3c:ca:39:
+        64:f9:a0:b3:33:aa:f8:fe:f0:c2:0c:59:d8:50:2d:f6:d5:65:
+        0c:58:0d:32:7b:23:e9:33:c1:fd:06:fb:0c:23:54:ba:42:ee:
+        6d:29:13:af:71:8d:e7:9a:18:c6:58:b3:0e:18:b7:ee:86:e5:
+        6c:b8:c5:1e:91:44:5d:43:65:95:de:8a:23:b5:26:1c:57:4a:
+        67:66:ec:13:50:69:02:7a:7b:59:d3:9f:47:9e:49:be:6c:a9:
+        2a:51:5f:5a:e1:7a:22:09:03:dc:37:d2:22:39:43:31:44:75:
+        a3:1a:75:ff:ee:ed:e5:bb:f8:c9:a6:bb:3e:9b:03:4c:4d:47:
+        f5:d6:cc:4f:3f:69:4a:23:97:ce:08:85:5f:42:2c:b4:93:58:
+        63:63:11:47:03:f5:0e:d0:7d:ba:8c:61:b7:b6:aa:0d:2d:4f:
+        d1:0c:b3:d0:ef:af:01:ee:14:b8:02:ba:a3:07:72:02:c7:65:
+        12:4a:5f:24
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            09:2c:34:5d:8a:0e:76:14
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, L=CloverCA, O=CloverCA
+        Validity
+            Not Before: Nov 24 20:28:22 2013 GMT
+            Not After : Apr 29 20:28:22 2193 GMT
+        Subject: C=US, L=Clover, O=Clover, CN=shim
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:d4:6c:c3:68:22:ea:c8:a3:55:3c:bf:ec:3a:df:
+                    91:ff:30:9d:b9:7f:ec:d2:e2:89:38:8e:8e:0c:f2:
+                    97:40:74:08:24:a9:df:e0:0f:b2:a9:92:ad:9d:2b:
+                    99:f6:e0:9b:48:9d:7f:e4:dc:50:b1:97:aa:17:47:
+                    7c:8e:b8:42:32:69:f8:57:5d:b2:95:d1:9d:57:79:
+                    46:bc:51:89:28:1b:e2:6c:2e:57:6a:ba:2d:67:d3:
+                    62:aa:48:c7:19:55:14:a8:4a:6b:ab:a4:6e:3c:60:
+                    ee:7f:fd:22:9d:9e:c9:cf:4e:07:a6:4e:a6:44:d2:
+                    6a:99:5c:f0:98:b6:c2:b4:20:d2:2d:61:a1:06:a8:
+                    c5:9e:d9:ff:25:8e:94:8d:06:2d:6c:86:e8:aa:e3:
+                    97:b6:23:1e:46:f1:3b:cc:47:ea:80:d6:08:ac:5c:
+                    4b:13:14:c9:1e:3c:5b:37:48:da:7b:3d:1f:c5:9f:
+                    b8:de:5d:53:44:20:9f:ef:f2:1e:eb:b5:e6:9f:4f:
+                    02:08:9c:72:92:bd:1c:2f:3a:c1:15:0f:7f:cc:cc:
+                    3f:42:db:4e:45:bc:c3:28:cb:09:86:5e:e1:b7:21:
+                    e1:85:0e:b1:c4:8a:4b:a0:8f:98:5a:9f:06:64:7a:
+                    4e:f9:a7:25:e2:db:b7:d1:61:6a:d5:7a:40:17:7d:
+                    63:2d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E1:CF:6B:8A:92:68:19:0C:B7:C7:70:46:DD:DC:16:6B:80:13:9C:30
+            X509v3 Authority Key Identifier: 
+                keyid:67:DE:EF:A9:A9:45:DF:CC:E2:12:3F:F2:B7:BF:5F:BA:C3:3C:81:09
+
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment, Key Agreement, Certificate Sign, CRL Sign, Encipher Only, Decipher Only
+            X509v3 Extended Key Usage: 
+                Code Signing, Microsoft Trust List Signing
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Clover Certificate for shim
+    Signature Algorithm: sha256WithRSAEncryption
+        19:62:48:7b:76:35:35:58:00:db:fa:9b:44:eb:b6:b4:4f:77:
+        6e:c0:fc:0d:38:96:2f:69:ac:ee:e1:3f:42:3b:a4:f3:ec:84:
+        62:97:1e:ac:d9:24:2a:e3:71:50:fc:60:6a:e7:6f:8c:e4:02:
+        18:de:80:02:56:09:16:07:ef:4b:aa:53:21:23:5a:3c:ca:39:
+        64:f9:a0:b3:33:aa:f8:fe:f0:c2:0c:59:d8:50:2d:f6:d5:65:
+        0c:58:0d:32:7b:23:e9:33:c1:fd:06:fb:0c:23:54:ba:42:ee:
+        6d:29:13:af:71:8d:e7:9a:18:c6:58:b3:0e:18:b7:ee:86:e5:
+        6c:b8:c5:1e:91:44:5d:43:65:95:de:8a:23:b5:26:1c:57:4a:
+        67:66:ec:13:50:69:02:7a:7b:59:d3:9f:47:9e:49:be:6c:a9:
+        2a:51:5f:5a:e1:7a:22:09:03:dc:37:d2:22:39:43:31:44:75:
+        a3:1a:75:ff:ee:ed:e5:bb:f8:c9:a6:bb:3e:9b:03:4c:4d:47:
+        f5:d6:cc:4f:3f:69:4a:23:97:ce:08:85:5f:42:2c:b4:93:58:
+        63:63:11:47:03:f5:0e:d0:7d:ba:8c:61:b7:b6:aa:0d:2d:4f:
+        d1:0c:b3:d0:ef:af:01:ee:14:b8:02:ba:a3:07:72:02:c7:65:
+        12:4a:5f:24
+-----BEGIN CERTIFICATE-----
+MIIDojCCAoqgAwIBAgIICSw0XYoOdhQwDQYJKoZIhvcNAQELBQAwMzELMAkGA1UE
+BhMCVVMxETAPBgNVBAcTCENsb3ZlckNBMREwDwYDVQQKEwhDbG92ZXJDQTAgFw0x
+MzExMjQyMDI4MjJaGA8yMTkzMDQyOTIwMjgyMlowPjELMAkGA1UEBhMCVVMxDzAN
+BgNVBAcTBkNsb3ZlcjEPMA0GA1UEChMGQ2xvdmVyMQ0wCwYDVQQDEwRzaGltMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1GzDaCLqyKNVPL/sOt+R/zCd
+uX/s0uKJOI6ODPKXQHQIJKnf4A+yqZKtnSuZ9uCbSJ1/5NxQsZeqF0d8jrhCMmn4
+V12yldGdV3lGvFGJKBvibC5XarotZ9NiqkjHGVUUqEprq6RuPGDuf/0inZ7Jz04H
+pk6mRNJqmVzwmLbCtCDSLWGhBqjFntn/JY6UjQYtbIboquOXtiMeRvE7zEfqgNYI
+rFxLExTJHjxbN0jaez0fxZ+43l1TRCCf7/Ie67Xmn08CCJxykr0cLzrBFQ9/zMw/
+QttORbzDKMsJhl7htyHhhQ6xxIpLoI+YWp8GZHpO+acl4tu30WFq1XpAF31jLQID
+AQABo4GsMIGpMB0GA1UdDgQWBBThz2uKkmgZDLfHcEbd3BZrgBOcMDAfBgNVHSME
+GDAWgBRn3u+pqUXfzOISP/K3v1+6wzyBCTAPBgNVHQ8BAf8EBQMDB/+AMB8GA1Ud
+JQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3CgMBMAkGA1UdEwQCMAAwKgYJYIZIAYb4
+QgENBB0WG0Nsb3ZlciBDZXJ0aWZpY2F0ZSBmb3Igc2hpbTANBgkqhkiG9w0BAQsF
+AAOCAQEAGWJIe3Y1NVgA2/qbROu2tE93bsD8DTiWL2ms7uE/Qjuk8+yEYpcerNkk
+KuNxUPxgaudvjOQCGN6AAlYJFgfvS6pTISNaPMo5ZPmgszOq+P7wwgxZ2FAt9tVl
+DFgNMnsj6TPB/Qb7DCNUukLubSkTr3GN55oYxlizDhi37oblbLjFHpFEXUNlld6K
+I7UmHFdKZ2bsE1BpAnp7WdOfR55JvmypKlFfWuF6IgkD3DfSIjlDMUR1oxp1/+7t
+5bv4yaa7PpsDTE1H9dbMTz9pSiOXzgiFX0IstJNYY2MRRwP1DtB9uoxht7aqDS1P
+0Qyz0O+vAe4UuAK6owdyAsdlEkpfJA==
+-----END CERTIFICATE-----

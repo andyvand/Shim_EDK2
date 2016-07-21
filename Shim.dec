@@ -1,0 +1,10 @@
+## @file
+# Shim UEFI loader
+##
+
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = Shim
+  PACKAGE_GUID                   = 36470E80-36F2-4ba0-8CC8-A48D8EA00999
+  PACKAGE_VERSION                = 1.0
+
